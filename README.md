@@ -2,9 +2,6 @@
 Repositório de uma pokedex em HTML E CSS simples ainda falta algumas coisas esse a base do projeto.
 
 
-link:    http://127.0.0.1:5500/index.html
-
-
 
 ## Bulbasaur
 
